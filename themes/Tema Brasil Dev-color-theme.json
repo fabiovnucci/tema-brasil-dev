@@ -1,0 +1,180 @@
+{
+	"name": "Tema Brasil Dev",
+	"type": "dark",
+	"colors": {
+		// ============ CORES PRINCIPAIS BRASIL ============
+		"editor.background": "#002776",
+		"editor.foreground": "#FFFFFF",
+		"editor.lineHighlightBackground": "#009C3B20",
+		"editor.selectionBackground": "#FFDF0060",
+		"editor.inactiveSelectionBackground": "#FFDF0030",
+		
+		// ============ BARRAS LATERAIS ============
+		"activityBar.background": "#009C3B",
+		"activityBar.foreground": "#FFFFFF",
+		"activityBarBadge.background": "#FFDF00",
+		"activityBarBadge.foreground": "#002776",
+		
+		"sideBar.background": "#001A4D",
+		"sideBar.foreground": "#FFFFFF",
+		"sideBarTitle.foreground": "#FFDF00",
+		"sideBarSectionHeader.background": "#009C3B",
+		"sideBarSectionHeader.foreground": "#FFFFFF",
+		
+		// ============ BARRA DE STATUS ============
+		"statusBar.background": "#FFDF00",
+		"statusBar.foreground": "#002776",
+		"statusBarItem.hoverBackground": "#FFC800",
+		"statusBar.debuggingBackground": "#009C3B",
+		
+		// ============ BARRA DE TÍTULO ============
+		"titleBar.activeBackground": "#002776",
+		"titleBar.activeForeground": "#FFFFFF",
+		"titleBar.inactiveBackground": "#001A4D",
+		"titleBar.inactiveForeground": "#CCCCCC",
+		
+		// ============ ABAS (TABS) ============
+		"tab.activeBackground": "#002776",
+		"tab.activeForeground": "#FFFFFF",
+		"tab.inactiveBackground": "#001A4D",
+		"tab.inactiveForeground": "#BBBBBB",
+		"tab.border": "#009C3B",
+		
+		// ============ BOTÕES ============
+		"button.background": "#009C3B",
+		"button.foreground": "#FFFFFF",
+		"button.hoverBackground": "#00B844",
+		
+		// ============ INPUTS ============
+		"input.background": "#001A4D",
+		"input.foreground": "#FFFFFF",
+		"input.border": "#009C3B",
+		"input.placeholderForeground": "#88AADD",
+		
+		// ============ LISTAS ============
+		"list.activeSelectionBackground": "#009C3B40",
+		"list.focusBackground": "#FFDF0020",
+		"list.hoverBackground": "#00277660",
+		
+		// ============ DESTAQUES ============
+		"focusBorder": "#FFDF00",
+		"selection.background": "#FFDF0040"
+	},
+	"tokenColors": [
+		// ============ SYNTAX BRASILEIRA ============
+		{
+			"name": "Comentários",
+			"scope": [
+				"comment",
+				"punctuation.definition.comment"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#88AADD"
+			}
+		},
+		{
+			"name": "Strings - Verde Brasil",
+			"scope": [
+				"string",
+				"constant.other.symbol",
+				"constant.other.key"
+			],
+			"settings": {
+				"foreground": "#00FF88"
+			}
+		},
+		{
+			"name": "Números - Amarelo Brasil",
+			"scope": [
+				"constant.numeric",
+				"constant.language",
+				"keyword.other.unit"
+			],
+			"settings": {
+				"foreground": "#FFDF00"
+			}
+		},
+		{
+			"name": "Funções - Azul Claro",
+			"scope": [
+				"entity.name.function",
+				"meta.function-call",
+				"support.function"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "Classes - Amarelo",
+			"scope": [
+				"entity.name",
+				"support.class",
+				"support.type"
+			],
+			"settings": {
+				"foreground": "#FFCB6B"
+			}
+		},
+		{
+			"name": "Keywords - Verde",
+			"scope": [
+				"keyword",
+				"storage.type",
+				"storage.modifier"
+			],
+			"settings": {
+				"foreground": "#00CC66"
+			}
+		},
+		{
+			"name": "Variáveis - Branco",
+			"scope": [
+				"variable",
+				"meta.block variable.other"
+			],
+			"settings": {
+				"foreground": "#FFFFFF"
+			}
+		},
+		{
+			"name": "Operadores - Azul Claro",
+			"scope": [
+				"keyword.operator",
+				"punctuation"
+			],
+			"settings": {
+				"foreground": "#89DDFF"
+			}
+		},
+		{
+			"name": "HTML Tags - Verde",
+			"scope": [
+				"entity.name.tag",
+				"meta.tag.sgml"
+			],
+			"settings": {
+				"foreground": "#00CC66"
+			}
+		},
+		{
+			"name": "HTML Attributes - Amarelo",
+			"scope": [
+				"entity.other.attribute-name"
+			],
+			"settings": {
+				"foreground": "#FFDF00"
+			}
+		},
+		{
+			"name": "CSS Properties - Azul",
+			"scope": [
+				"support.type.property-name"
+			],
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		}
+	]
+}
