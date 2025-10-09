@@ -4,6 +4,7 @@
   "publisher": "fabio-vergilio-nucci",
   "description": "Tema com cores da bandeira brasileira para desenvolvedores",
   "version": "1.0.3",
+  "changelog": "CHANGELOG.md",
     "icon": "images/icon.png",
 
   "engines": {
