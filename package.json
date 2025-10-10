@@ -3,10 +3,9 @@
   "displayName": "Tema Brasil Dev",
   "publisher": "fabio-vergilio-nucci",
   "description": "Tema com cores da bandeira brasileira para desenvolvedores",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "changelog": "CHANGELOG.md",
-    "icon": "images/icon.png",
-
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -25,14 +24,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/fabiovnucci/tema-brasil-dev",
-     "bugs": {
-    "url": "https://github.com/fabiovnucci/tema-brasil-dev/issues"
-  },
-  "homepage": "https://github.com/fabiovnucci/tema-brasil-dev#readme"
+    "bugs": {
+      "url": "https://github.com/fabiovnucci/tema-brasil-dev/issues"
+    },
+    "homepage": "https://github.com/fabiovnucci/tema-brasil-dev#readme"
   }
-  
 }
-
-
-
- 
