@@ -5,6 +5,23 @@ Todas as mudanças notáveis no **Tema Brasil Dev** serão documentadas neste ar
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/),
 e este projeto adere ao [Versionamento Semântico](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.0] - 2024-10-09
+
+### 🎨 Aprimorado
+- Cores principais mais escuras e confortáveis (`#001A33`, `#002752`)
+- Syntax highlighting semântico aprimorado
+- Contrastes otimizados para longas sessões de coding
+- Cores mais profissionais mantendo identidade brasileira
+
+### 🔧 Corrigido
+- Scopes de token colors para melhor compatibilidade
+- Harmonização de cores entre diferentes elementos
+- Valores de opacidade para melhor legibilidade
+
+### 💼 Alterado
+- Transição para versão 2.0.0 com melhorias significativas
+- Foco em experiência visual mais profissional
+
 ## [1.0.3] - 2024-10-09
 
 ### 📋 Adicionado

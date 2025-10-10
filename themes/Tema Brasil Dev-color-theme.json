@@ -3,41 +3,42 @@
 	"type": "dark",
 	"colors": {
 		// ============ CORES PRINCIPAIS BRASIL ============
-		"editor.background": "#002776",
-		"editor.foreground": "#FFFFFF",
-		"editor.lineHighlightBackground": "#009C3B20",
-		"editor.selectionBackground": "#FFDF0060",
-		"editor.inactiveSelectionBackground": "#FFDF0030",
+		"editor.background": "#001A33",
+		"editor.foreground": "#E6F3FF",
+		"editor.lineHighlightBackground": "#009C3B15",
+		"editor.selectionBackground": "#FFDF0025",
+		"editor.inactiveSelectionBackground": "#FFDF0010",
+		"editorLineNumber.foreground": "#6B8CBE",
 		
 		// ============ BARRAS LATERAIS ============
-		"activityBar.background": "#009C3B",
+		"activityBar.background": "#002752",
 		"activityBar.foreground": "#FFFFFF",
 		"activityBarBadge.background": "#FFDF00",
-		"activityBarBadge.foreground": "#002776",
+		"activityBarBadge.foreground": "#002752",
 		
-		"sideBar.background": "#001A4D",
-		"sideBar.foreground": "#FFFFFF",
+		"sideBar.background": "#002752",
+		"sideBar.foreground": "#E6F3FF",
 		"sideBarTitle.foreground": "#FFDF00",
 		"sideBarSectionHeader.background": "#009C3B",
 		"sideBarSectionHeader.foreground": "#FFFFFF",
 		
 		// ============ BARRA DE STATUS ============
 		"statusBar.background": "#FFDF00",
-		"statusBar.foreground": "#002776",
+		"statusBar.foreground": "#002752",
 		"statusBarItem.hoverBackground": "#FFC800",
 		"statusBar.debuggingBackground": "#009C3B",
 		
 		// ============ BARRA DE TÍTULO ============
-		"titleBar.activeBackground": "#002776",
-		"titleBar.activeForeground": "#FFFFFF",
-		"titleBar.inactiveBackground": "#001A4D",
-		"titleBar.inactiveForeground": "#CCCCCC",
+		"titleBar.activeBackground": "#001A33",
+		"titleBar.activeForeground": "#E6F3FF",
+		"titleBar.inactiveBackground": "#002752",
+		"titleBar.inactiveForeground": "#A3C6E8",
 		
 		// ============ ABAS (TABS) ============
-		"tab.activeBackground": "#002776",
+		"tab.activeBackground": "#001A33",
 		"tab.activeForeground": "#FFFFFF",
-		"tab.inactiveBackground": "#001A4D",
-		"tab.inactiveForeground": "#BBBBBB",
+		"tab.inactiveBackground": "#002752",
+		"tab.inactiveForeground": "#A3C6E8",
 		"tab.border": "#009C3B",
 		
 		// ============ BOTÕES ============
@@ -46,15 +47,15 @@
 		"button.hoverBackground": "#00B844",
 		
 		// ============ INPUTS ============
-		"input.background": "#001A4D",
-		"input.foreground": "#FFFFFF",
+		"input.background": "#002752",
+		"input.foreground": "#E6F3FF",
 		"input.border": "#009C3B",
 		"input.placeholderForeground": "#88AADD",
 		
 		// ============ LISTAS ============
 		"list.activeSelectionBackground": "#009C3B40",
 		"list.focusBackground": "#FFDF0020",
-		"list.hoverBackground": "#00277660",
+		"list.hoverBackground": "#00277630",
 		
 		// ============ DESTAQUES ============
 		"focusBorder": "#FFDF00",
@@ -70,7 +71,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#88AADD"
+				"foreground": "#6B8CBE"
 			}
 		},
 		{
@@ -81,7 +82,7 @@
 				"constant.other.key"
 			],
 			"settings": {
-				"foreground": "#00FF88"
+				"foreground": "#00CC66"
 			}
 		},
 		{
@@ -92,7 +93,7 @@
 				"keyword.other.unit"
 			],
 			"settings": {
-				"foreground": "#FFDF00"
+				"foreground": "#FFB347"
 			}
 		},
 		{
@@ -109,7 +110,7 @@
 		{
 			"name": "Classes - Amarelo",
 			"scope": [
-				"entity.name",
+				"entity.name.class",
 				"support.class",
 				"support.type"
 			],
@@ -125,7 +126,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#00CC66"
+				"foreground": "#009C3B"
 			}
 		},
 		{
@@ -135,7 +136,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#FFFFFF"
+				"foreground": "#E6F3FF"
 			}
 		},
 		{
