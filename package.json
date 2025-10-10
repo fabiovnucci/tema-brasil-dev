@@ -24,8 +24,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fabiosjrp/tema-brasil-dev"
+    "url": "https://github.com/fabiovnucci/tema-brasil-dev",
+     "bugs": {
+    "url": "https://github.com/fabiovnucci/tema-brasil-dev/issues"
+  },
+  "homepage": "https://github.com/fabiovnucci/tema-brasil-dev#readme"
   }
+  
 }
 
 
+
+ 
