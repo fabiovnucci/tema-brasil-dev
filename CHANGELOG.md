@@ -31,7 +31,7 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.
 - Suporte para novas linguagens de programação
 - Cores personalizadas para arquivos Markdown
 
-## [2.0.0] - 2024-10-09
+## [2.0.0] - 2025-10-09
 ### 🎨 Aprimorado
 - Cores principais mais escuras e confortáveis (`#001A33`, `#002752`)
 - Syntax highlighting semântico aprimorado
@@ -47,7 +47,7 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.
 - Transição para versão 2.0.0 com melhorias significativas
 - Foco em experiência visual mais profissional
 
-## [1.0.3] - 2024-10-09
+## [1.0.3] - 2025-10-09
 ### 📋 Adicionado
 - Sistema de changelog profissional seguindo padrões da indústria
 - Documentação completa de todas as versões anteriores
@@ -58,7 +58,7 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.
 - Estrutura de documentação de mudanças padronizada
 - Histórico de versões organizado cronologicamente
 
-## [1.0.2] - 2024-10-08
+## [1.0.2] - 2025-10-08
 ### 🎨 Adicionado
 - Ícone personalizado da FVN Tech (128x128 pixels)
 - LICENSE.md com MIT License
@@ -75,7 +75,7 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.
 - Posicionamento como marca FVN Tech
 - README.md com abordagem mais corporativa
 
-## [1.0.1] - 2024-10-08
+## [1.0.1] - 2025-10-08
 ### 📝 Alterado
 - README.md completamente reformulado e profissionalizado
 - Instruções de instalação mais claras e diretas
@@ -86,7 +86,7 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.
 - Campo `publisher` no package.json (`fabio-vergilio` → `fabio-vergilio-nucci`)
 - Problemas de publicação no Marketplace
 
-## [1.0.0] - 2024-10-08
+## [1.0.0] - 2025-10-08
 ### 🚀 Lançado
 - Tema Brasil Dev para Visual Studio Code
 - Cores da bandeira brasileira: `#002776` (azul), `#009C3B` (verde), `#FFDF00` (amarelo)
