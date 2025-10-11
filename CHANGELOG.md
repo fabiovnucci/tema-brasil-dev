@@ -4,6 +4,14 @@ Todas as mudanças notáveis no **Tema Brasil Dev** serão documentadas neste ar
 
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/), e este projeto adere ao [Versionamento Semântico](https://semver.org/spec/v2.0.0.html).
 
+
+## [2.0.6] - 2025-10-11
+### 🎨 Adicionado
+- Tema High Contrast para acessibilidade
+- Suporte a usuários com baixa visão  
+- Cores de alto contraste mantendo identidade brasileira
+- Segundo tema incluído no pacote
+
 ## [2.0.5] - 2025-10-11
 ### 🔧 Corrigido
 - Problemas de publicação no Marketplace VS Code

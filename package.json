@@ -13,14 +13,20 @@
     "Themes"
   ],
   "contributes": {
-    "themes": [
-      {
-        "label": "Tema Brasil Dev",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Tema Brasil Dev-color-theme.json"
-      }
-    ]
-  },
+  "themes": [
+    {
+      "label": "Tema Brasil Dev",
+      "uiTheme": "vs-dark", 
+      "path": "./themes/Tema Brasil Dev-color-theme.json"
+    },
+    {
+      "label": "Tema Brasil Dev High Contrast",
+      "uiTheme": "hc-black",
+      "path": "./themes/Tema Brasil Dev-high-contrast.json"
+    }
+  ]
+}
+  ,
   "repository": {
     "type": "git",
     "url": "https://github.com/fabiovnucci/tema-brasil-dev",
