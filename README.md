@@ -1,3 +1,15 @@
+## 🖼️ Screenshots
+
+### Tema Brasil Dev
+![Tema Normal](screenshots/tema_brasil_dev.pngpng)
+
+### Tema High Contrast  
+![Tema High Contrast](screenshots/tema_brasil_dev_contraste.png)
+
+
+
+
+
 # 🎨 Tema Brasil Dev
 
 Tema para VS Code com cores da bandeira brasileira. 🇧🇷
