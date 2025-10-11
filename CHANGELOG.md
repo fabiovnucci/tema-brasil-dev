@@ -4,29 +4,29 @@ Todas as mudanças notáveis no **Tema Brasil Dev** serão documentadas neste ar
 
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/), e este projeto adere ao [Versionamento Semântico](https://semver.org/spec/v2.0.0.html).
 
-## [2.0.5] - 2025-11-09
+## [2.0.5] - 2025-10-11
 ### 🔧 Corrigido
 - Problemas de publicação no Marketplace VS Code
 - Geração correta do arquivo .vsix
 - Compatibilidade com sistema de upload manual
 
-## [2.0.4] - 2025-11-09
+## [2.0.4] - 2025-10-10
 ### 🔧 Corrigido
 - Problemas de publicação no Marketplace VS Code
 - Geração correta do arquivo .vsix para versão 2.0.4
 - Compatibilidade com sistema de upload manual
 
-## [2.0.3] - 2025-10-09
+## [2.0.3] - 2025-10-10
 ### 🎨 Aprimorado
 - Cores de sintaxe para JavaScript e TypeScript
 - Melhor contraste para textos em painéis laterais
 
-## [2.0.2] - 2025-10-09
+## [2.0.2] - 2025-10-10
 ### 🔧 Corrigido
 - Cores de fundo para temas de interface
 - Valores de opacidade em elementos selecionados
 
-## [2.0.1] - 2025-10-09
+## [2.0.1] - 2025-10-10
 ### 📋 Adicionado
 - Suporte para novas linguagens de programação
 - Cores personalizadas para arquivos Markdown
