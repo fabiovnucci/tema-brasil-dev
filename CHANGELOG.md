@@ -8,7 +8,7 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.
 ## [2.0.6] - 2025-10-11
 ### 🎨 Adicionado
 - Tema High Contrast para acessibilidade
-- Suporte a usuários com baixa visão  
+- Suporte a usuários com baixa visão
 - Cores de alto contraste mantendo identidade brasileira
 - Segundo tema incluído no pacote
 
