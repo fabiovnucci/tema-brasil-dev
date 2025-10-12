@@ -4,6 +4,13 @@ Todas as mudanças notáveis no **Tema Brasil Dev** serão documentadas neste ar
 
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/), e este projeto adere ao [Versionamento Semântico](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.7] - 2025-10-11
+### 🌎 Adicionado  
+- Brazil Colors theme (international version)
+- English language support for global developers
+- Same Brazilian colors with international branding
+- Third theme option in the package
+
 
 ## [2.0.6] - 2025-10-11
 ### 🎨 Adicionado

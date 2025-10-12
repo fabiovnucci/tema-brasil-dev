@@ -3,7 +3,7 @@
   "displayName": "Tema Brasil Dev",
   "publisher": "fabio-vergilio-nucci",
   "description": "Tema com cores da bandeira brasileira para desenvolvedores",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "changelog": "CHANGELOG.md",
   "icon": "images/icon.png",
   "engines": {
@@ -19,11 +19,19 @@
       "uiTheme": "vs-dark", 
       "path": "./themes/Tema Brasil Dev-color-theme.json"
     },
-    {
+{
       "label": "Tema Brasil Dev High Contrast",
       "uiTheme": "hc-black",
       "path": "./themes/Tema Brasil Dev-high-contrast.json"
+    },
+    
+     {
+      "label": "Brazil Colors",
+      "uiTheme": "vs-dark",
+      "path": "./themes/Brazil Colors-color-theme.json"
     }
+
+    
   ]
 }
   ,
