@@ -4,12 +4,30 @@ Todas as mudanças notáveis no **Tema Brasil Dev** serão documentadas neste ar
 
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/), e este projeto adere ao [Versionamento Semântico](https://semver.org/spec/v2.0.0.html).
 
+***
+
+👋 **Apoie a Manutenção e a Evolução do Tema Brasil Dev!**
+
+Este tema é e será **sempre 100% gratuito** para a comunidade. Se você gostou da constante dedicação e das novas funcionalidades (como o Tema High Contrast e a versão internacional), você pode apoiar nosso trabalho de manutenção **voluntariamente**.
+
+Sua contribuição garante que o projeto continue evoluindo!
+
+⭐ **PIX para Suporte Voluntário (FVN Tech):** fabiosjrp@hotmail.com
+
+***
+
+
 ## [2.0.7] - 2025-10-11
 ### 🌎 Adicionado  
 - Brazil Colors theme (international version)
 - English language support for global developers
 - Same Brazilian colors with international branding
 - Third theme option in the package
+
+
+👍 **Gostou do lançamento da Versão Internacional e do foco em Acessibilidade (v2.0.6)?**
+## Considere apoiar a manutenção do projeto para mais atualizações.
+## Obrigado por usar o tema!
 
 
 ## [2.0.6] - 2025-10-11

@@ -6,10 +6,9 @@
 ### Tema Brasil Dev (High Contrast) 
 ![Tema High Contrast](screenshots/tema_brasil_dev_contraste.png)
 
-### Brazil Colors (International Version)
-![Brazil Colors Theme](screenshots/tema_brasil_dev.png)
-
-
+### Tema Brazil Colors (International Version)
+**Nota:** As **cores e a sintaxe são idênticas** ao Tema Brasil Dev (Normal). 
+Esta versão existe apenas com **linguagem de exibição em Inglês** para desenvolvedores globais.
 # 🎨 Tema Brasil Dev
 
 Tema para VS Code com cores da bandeira brasileira. 🇧🇷
@@ -39,12 +38,22 @@ Após instalar, pressione `Ctrl+K Ctrl+T` e selecione:
 - **Verde:** `#009C3B` - barras laterais  
 - **Amarelo:** `#FFDF00` - destaques
 
-## 💚 Apoie este Projeto
 
-Gostou do tema? Ajude a manter este projeto:
+## 💚 Apoie a Evolução Contínua do Tema Brasil Dev
 
-**PIX: fabiosjrp@hotmail.com**
+O **Tema Brasil Dev é e sempre será 100% gratuito** para todos os desenvolvedores.
 
----
+Este projeto é mantido por **Fabio Vergilio Nucci (FVN Tech)**, com dedicação à comunidade. **Se você puder e quiser nos apoiar**, sua contribuição é reinvestida diretamente para:
+
+1.  **Garantir a Compatibilidade:** Manutenção e correção de bugs em novas versões do VS Code.
+2.  **Aprimorar a Acessibilidade:** Expandir as opções de contraste e cores (como o High Contrast).
+3.  **Desenvolver Novos Recursos:** Lançar variações e suporte para mais linguagens.
+
+Se o Tema Brasil Dev tornou sua codificação mais produtiva, demonstre seu apoio para que possamos evoluir o projeto!
+
+⭐ **CONTRIBUIÇÃO VOLUNTÁRIA (Chave PIX):** fabiosjrp@hotmail.com **
+
+
+
 
 *Desenvolvido por Fabio Vergilio Nucci*
