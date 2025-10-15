@@ -15,23 +15,20 @@
   "contributes": {
   "themes": [
     {
-      "label": "Tema Brasil Dev",
-      "uiTheme": "vs-dark", 
+      "label": "Brazil Colors Dark",
+      "uiTheme": "vs-dark",
       "path": "./themes/Tema Brasil Dev-color-theme.json"
     },
-{
-      "label": "Tema Brasil Dev High Contrast",
-      "uiTheme": "hc-black",
-      "path": "./themes/Tema Brasil Dev-high-contrast.json"
-    },
-    
-     {
-      "label": "Brazil Colors",
+    {
+      "label": "Brazil Colors International", 
       "uiTheme": "vs-dark",
       "path": "./themes/Brazil Colors-color-theme.json"
+    },
+    {
+      "label": "Brazil High Contrast",
+      "uiTheme": "hc-black",
+      "path": "./themes/Tema Brasil Dev-high-contrast.json"
     }
-
-    
   ]
 }
   ,

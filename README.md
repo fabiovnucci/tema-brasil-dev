@@ -13,6 +13,20 @@ Esta versão existe apenas com **linguagem de exibição em Inglês** para desen
 
 Tema para VS Code com cores da bandeira brasileira. 🇧🇷
 
+## 🎯 Como Escolher seu Tema
+
+### 🇧🇷 Brazil Colors Dark
+**Para quem:** Programação noturna, ambientes escuros  
+**Cores:** Esquema escuro com cores brasileiras vibrantes
+
+### 🌎 Brazil Colors International  
+**Para quem:** Desenvolvedores globais, times internacionais
+**Cores:** Mesmo visual com descrições em inglês
+
+### 👁️ Brazil High Contrast
+**Para quem:** Baixa visão, ambientes muito claros, acessibilidade
+**Cores:** Alto contraste mantendo identidade brasileira
+
 ## ✨ Novidade na Versão 2.0.6
 - **Tema High Contrast** para acessibilidade
 - Cores de alto contraste mantendo a identidade brasileira
