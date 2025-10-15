@@ -16,6 +16,11 @@ Sua contribuição garante que o projeto continue evoluindo!
 
 ***
 
+## [2.0.8] - 2025-10-15
+### 🎯 Melhorado
+- Nomes dos temas mais claros e descritivos
+- Guia de escolha no README para melhor experiência do usuário
+- Descrições explicativas para cada variação do tema
 
 ## [2.0.7] - 2025-10-11
 ### 🌎 Adicionado  
@@ -23,11 +28,6 @@ Sua contribuição garante que o projeto continue evoluindo!
 - English language support for global developers
 - Same Brazilian colors with international branding
 - Third theme option in the package
-
-
-👍 **Gostou do lançamento da Versão Internacional e do foco em Acessibilidade (v2.0.6)?**
-## Considere apoiar a manutenção do projeto para mais atualizações.
-## Obrigado por usar o tema!
 
 
 ## [2.0.6] - 2025-10-11
