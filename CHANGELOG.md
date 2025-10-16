@@ -16,6 +16,22 @@ Sua contribuição garante que o projeto continue evoluindo!
 
 ***
 
+## [2.1.0] - 2025-10-16
+
+### 🎨 Adicionado
+- **Novo Tema Light** - versão clara com cores da bandeira brasileira
+- Quarta variante completa do pacote
+- Paleta de cores claras mantendo identidade visual
+
+### 📚 Atualizado
+- Documentação com guia da nova variante light
+- README.md com screenshots atualizadas
+- Package.json com nova entrada de tema
+
+### 🌟 Destaque
+- Expansão para usuários que preferem temas claros
+- Cobertura completa de preferências (dark, light, high contrast, international)
+
 ## [2.0.8] - 2025-10-15
 ### 🎯 Melhorado
 - Nomes dos temas mais claros e descritivos

@@ -19,6 +19,11 @@ Tema para VS Code com cores da bandeira brasileira 🇧🇷
 - **Para quem:   ** Acessibilidade, baixa visão, ambientes muito claros
 - **Cores:   ** Alto contraste mantendo a identidade brasileira
 
+### 🌞 Tema Brasil Dev Light
+![Tema High Contrast](screenshots/tema_brasil_dev_light.png)
+*Para quem:* Prefere temas claros, ambientes bem iluminados  
+*Cores:* Versão clara mantendo as cores da bandeira brasileira
+
 ## 🚀 Instalação
 
 1. Abra o VS Code
