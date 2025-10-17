@@ -15,17 +15,17 @@
   "contributes": {
   "themes": [
     {
-      "label": "Brazil Colors Dark",
+      "label": "Tema Brasil Dev Dark",
       "uiTheme": "vs-dark",
       "path": "./themes/Tema Brasil Dev-color-theme.json"
     },
     {
-      "label": "Brazil Colors International", 
+      "label": "Tema Brasil Dev International", 
       "uiTheme": "vs-dark",
       "path": "./themes/Brazil Colors-color-theme.json"
     },
     {
-      "label": "Brazil High Contrast",
+      "label": "Tema Brasil Dev High Contrast",
       "uiTheme": "hc-black",
       "path": "./themes/Tema Brasil Dev-high-contrast.json"
     },
