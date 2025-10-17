@@ -6,13 +6,14 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.
 
 ***
 
-👋 **Apoie a Manutenção e a Evolução do Tema Brasil Dev!**
+👋 Apoie a Manutenção e a Evolução do Tema Brasil Dev!
 
-Este tema é e será **sempre 100% gratuito** para a comunidade. Se você gostou da constante dedicação e das novas funcionalidades (como o Tema High Contrast e a versão internacional), você pode apoiar nosso trabalho de manutenção **voluntariamente**.
+Este tema é e será sempre 100% gratuito para a comunidade. Se você gostou da constante dedicação e das novas funcionalidades (como o Tema High Contrast e a versão internacional), você pode apoiar nosso trabalho de manutenção voluntariamente.
 
 Sua contribuição garante que o projeto continue evoluindo!
 
-⭐ **PIX para Suporte Voluntário (FVN Tech):** fabiosjrp@hotmail.com
+⭐ PIX para Suporte Voluntário (FVN Tech): fabiosjrp@hotmail.com
+
 
 ***
 
