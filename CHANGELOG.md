@@ -17,6 +17,17 @@ Sua contribuição garante que o projeto continue evoluindo!
 
 ***
 
+## [2.1.1] - 2025-10-20
+
+### 🔧 Corrigido
+- Padronização completa dos nomes dos temas
+- Uniformização dos arquivos e estrutura interna
+- Organização da nomenclatura em português
+
+### 🎨 Atualizado
+- Nomes dos temas no seletor do VS Code
+- Documentação interna dos arquivos de tema
+
 ## [2.1.0] - 2025-10-16
 
 ### 🎨 Adicionado
