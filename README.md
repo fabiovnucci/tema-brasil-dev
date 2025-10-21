@@ -5,7 +5,7 @@ Tema para VS Code com cores da bandeira brasileira 🇧🇷
 
 ## 🎨 Variantes do Tema
 
-### 🌎 Brazil Colors (International)
+### 🌎 Tema Brasil Dev International
 - **Para quem:   ** Desenvolvedores globais e times internacionais
 - **Cores:   ** Mesmo esquema do tema normal, mas com metadados em inglês
 
@@ -38,8 +38,11 @@ Após a instalação:
 1. Pressione `Ctrl+K Ctrl+T` (Windows/Linux) ou `Cmd+K Cmd+T` (Mac)
 2. Selecione uma das opções:
 
-   - **Tema Brasil Dev** (versão normal)
-   - **Tema Brasil Dev High Contrast** (versão acessível)
+### 🌞 Tema Brasil Dev Light
+### 👁️ Tema Brasil Dev High Contrast (Versão Acessível)
+### 🇧🇷 Tema Brasil Dev (Normal)
+### 🌎 Tema Brasil Dev International
+
 
 [Instalar pelo Marketplace](https://marketplace.visualstudio.com/items?itemName=fabio-vergilio-nucci.tema-brasil-dev)
 
@@ -62,5 +65,5 @@ Sua contribuição garante que o projeto continue evoluindo!
 ⭐ PIX para Suporte Voluntário (FVN Tech): fabiosjrp@hotmail.com
 
 
-*Desenvolvido por Fabio Vergilio Nucci*
+*Desenvolvido por Fabio Vergilio Nucci e equipe *
 
